@@ -1,0 +1,10 @@
+pandas – data loading
+
+scikit-learn – data preprocessing and evaluation
+
+tensorflow – deep learning model (LSTM)
+
+numpy – numeric operations
+
+matplotlib – plotting performance (optional)
+
